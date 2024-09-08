@@ -1,8 +1,8 @@
 [
   {
-    "name": "Simple-Multi-Vendor-Ecommerce-Website",
-    "desc": "Fully fledged This is a simple MultiVendor e-commerce website built with Django (Ptyhon) and Stripe is added as payment processor. Built using AI,HTML,CSS,DJANGO.",
-    "image": "SEMW",
+    "name": "NotyStack Android",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "notystackandroid",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
