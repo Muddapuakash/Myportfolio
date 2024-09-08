@@ -3,7 +3,7 @@
     "name": "Simple-Multi-Vendor-Ecommerce-Website",
     "desc": "This is a simple MultiVendor e-commerce website built with Django (Ptyhon) and Stripe is added as payment processor. Using HTML,CSS,PYTHON,DJANGO",
     "image": "SEMW",
-    "category": "AI",
+    "category": "ai",
     "links": {
       "view": "#",
       "code": "https://github.com/Muddapuakash/Simple-Multi-Vendor-Ecommerce-Website"
